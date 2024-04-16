@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=durvs&hide_border=true&locale=pt_BR&exclude_days=Sun%2CSat&card_width=600&background=00000000)](https://git.io/streak-stats)
+</p>
 <!--
 **durvs/durvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
